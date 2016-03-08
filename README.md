@@ -1,1 +1,2 @@
 # Django
+KUY RAI WA GU CHAI MAI PEN
